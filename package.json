@@ -1,0 +1,67 @@
+{
+  "_args": [
+    [
+      "jquery-textfill",
+      "/home/geert-jan/sources/kwhen/frontend"
+    ]
+  ],
+  "_from": "jquery-textfill@latest",
+  "_id": "jquery-textfill@0.6.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/jquery-textfill",
+  "_npmUser": {
+    "email": "pwlin05@gmail.com",
+    "name": "pwlin"
+  },
+  "_npmVersion": "1.4.23",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "jquery-textfill",
+    "raw": "jquery-textfill",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jquery-textfill/-/jquery-textfill-0.6.0.tgz",
+  "_shasum": "257822cfce4c4a1ad9a19e7b17c525f034f8b2b0",
+  "_shrinkwrap": null,
+  "_spec": "jquery-textfill",
+  "_where": "/home/geert-jan/sources/kwhen/frontend",
+  "author": {
+    "email": "https://github.com/jquery-textfill/jquery-textfill",
+    "name": "jQuery TextFill contributors"
+  },
+  "bugs": {
+    "url": "https://github.com/jquery-textfill/jquery-textfill/issues"
+  },
+  "main": "source/jquery.textfill.js",
+  "dependencies": {},
+  "description": "This jQuery plugin resizes text to make it fit into a container. The font size gets as big as possible. http://jquery-textfill.github.io/",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "257822cfce4c4a1ad9a19e7b17c525f034f8b2b0",
+    "tarball": "https://registry.npmjs.org/jquery-textfill/-/jquery-textfill-0.6.0.tgz"
+  },
+  "gitHead": "31cf6653dfa1b30fb496b5e74497299484b2821f",
+  "homepage": "https://github.com/jquery-textfill/jquery-textfill",
+  "license": "MIT",
+  "maintainers": [{
+    "email": "pwlin05@gmail.com",
+    "name": "pwlin"
+  }],
+  "name": "jquery-textfill",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquery-textfill/jquery-textfill.git"
+  },
+  "scripts": {},
+  "version": "0.6.0"
+}
